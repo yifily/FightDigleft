@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/5.png</file>
+        <file>image/350.png</file>
+        <file>image/bgk.jpg</file>
+        <file>image/bk.png</file>
+        <file>image/shu.png</file>
+        <file>image/shu2.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/back.mp3</file>
+        <file>music/ping.wav</file>
+    </qresource>
+</RCC>

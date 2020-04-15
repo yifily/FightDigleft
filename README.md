@@ -1,2 +1,2 @@
 # FightDigleft
-a game
+a small game
